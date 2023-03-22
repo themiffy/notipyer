@@ -1,0 +1,14 @@
+{
+    "notifications":[
+        {       
+                "name":"Name1",
+                "time":"19:12",
+                "text":"Попу мыть"
+        },
+        {       
+                "name":"Name2",
+                "time":"19:13",
+                "text":"Попу cушить"
+        }
+    ]
+}
